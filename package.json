@@ -2,12 +2,12 @@
   "name": "so-jogo-moz-backend",
   "version": "1.0.0",
   "description": "Backend para o site de apostas So Jogo Moz.",
-  "main": "index.js",
+  "main": "servidor.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node servidor.js",
+    "dev": "nodemon servidor.js"
   },
-  "author": "Seu Nome",
+  "author": "Alexmozbet",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.26.1",
